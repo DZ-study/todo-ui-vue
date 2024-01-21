@@ -1,0 +1,1 @@
+.slide-wrapper{display:flex;height:100%}.slide-wrapper .slide-container{height:100%;display:flex}.slide-wrapper .slide-container .slide-content{flex:1}.slide-wrapper .slide-line{width:5px;transition:all .25s;border-right:1px solid #eee}
